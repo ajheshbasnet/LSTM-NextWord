@@ -27,5 +27,4 @@ This project trains a deep learning model to **predict the next word** in a sent
 ```text
 LSTM-NextWord/
 ├── NextWordPredictor.ipynb   # Main Jupyter notebook
-├── README.md                 # Project documentation
-└── (Optional: data files, model checkpoints, etc.)
+└── README.md                 # Project documentation
